@@ -1,6 +1,6 @@
 Перемещение по веткам 
 ~~~sh
-git checkout <имя ветки> 
+git checkout <branch_name> 
 ~~~
 
 # Отоброжение всех веток 
